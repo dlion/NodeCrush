@@ -1,6 +1,6 @@
 {
   "name": "nodecrush",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An wrapper written in Node.js for the MediaCrush API",
   "main": "index.js",
   "directories": {

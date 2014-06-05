@@ -2,6 +2,16 @@
 
 An wrapper written in Node.js for the [MediaCrush](https://github.com/MediaCrush/MediaCrush) API
 
+## Install
+```sh
+$ npm install nodecrush
+```
+
+## NPM
+[![NPM](https://nodei.co/npm/nodecrush.png?downloads=true&stars=true)](https://nodei.co/npm/nodecrush)
+[![NPM](https://nodei.co/npm-dl/nodecrush.png)](https://nodei.co/npm/nodecrush/)
+
+
 # Usage and Examples
 
 ### Require
